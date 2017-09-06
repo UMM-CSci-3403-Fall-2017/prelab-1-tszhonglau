@@ -1,0 +1,8 @@
+Regex 0
+(\w+),(.*)
+
+Regex 1
+\b(I am)\b(.*)\..*\b(is)\b(.*)\..*
+
+Regex 2
+\b(sandwich with)\b(.*)\.\s(.*)
